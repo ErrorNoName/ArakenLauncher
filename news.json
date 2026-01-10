@@ -12,7 +12,7 @@
         "title": "Serveur Minecraft",
         "date": "10/01/2026",
         "description": "Le serveur Minecraft est actuellement en construction. Préparez-vous !",
-        "image": "",
+        "image": "https://i.pinimg.com/736x/14/8d/1a/148d1a42271a4ba13935553524256a7c.jpg",
         "color": "#4ade80"
     },
     {
@@ -20,7 +20,7 @@
         "title": "Recrutement Builders",
         "date": "10/01/2026",
         "description": "Nous recherchons des builders talentueux pour construire le spawn. Postulez sur Discord.",
-        "image": "",
+        "image": "https://i.pinimg.com/736x/e2/55/85/e255853804fb7d8572b368e824c37c24.jpg",
         "color": "#00a8ff"
     }
 ]
