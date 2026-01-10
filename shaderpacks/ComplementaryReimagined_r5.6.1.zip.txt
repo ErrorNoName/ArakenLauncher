@@ -1,0 +1,2 @@
+#Sat Jan 10 18:59:22 CET 2026
+BORDER_FOG=false
