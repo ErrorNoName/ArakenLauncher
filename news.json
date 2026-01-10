@@ -1,1 +1,26 @@
-
+[
+    {
+        "id": 1,
+        "title": "Lancement Roblox !",
+        "date": "09/01/2026",
+        "description": "Le jeu Roblox est officiellement lancé ! Rejoignez l'aventure dès maintenant.",
+        "image": "https://i.pinimg.com/1200x/3f/fc/d7/3ffcd74510b7d0e3765e13fe4ab6e8bb.jpg",
+        "color": "#e02d2d" 
+    },
+    {
+        "id": 2,
+        "title": "Serveur Minecraft",
+        "date": "10/01/2026",
+        "description": "Le serveur Minecraft est actuellement en construction. Préparez-vous !",
+        "image": "",
+        "color": "#4ade80"
+    },
+    {
+        "id": 3,
+        "title": "Recrutement Builders",
+        "date": "10/01/2026",
+        "description": "Nous recherchons des builders talentueux pour construire le spawn. Postulez sur Discord.",
+        "image": "",
+        "color": "#00a8ff"
+    }
+]
