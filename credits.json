@@ -1,7 +1,7 @@
 [
   {
-    "username": "FxNoName",
-    "ign": "ErrorNoName",
+    "username": "ErrorNoName",
+    "ign": "FxNoName",
     "roles": ["Créateur", "Développeur", "Builder"],
     "color": "#FF5555",
     "size": "1.5rem"
