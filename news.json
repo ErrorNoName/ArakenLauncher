@@ -22,5 +22,13 @@
         "description": "Nous recherchons des builders talentueux pour construire le spawn. Postulez sur Discord.",
         "image": "https://i.pinimg.com/736x/e2/55/85/e255853804fb7d8572b368e824c37c24.jpg",
         "color": "#00a8ff"
+    },
+    {
+        "id": 1,
+        "title": "Lancement Araken Launcher !",
+        "date": "11/01/2026",
+        "description": "Le launcher est officiellement sortie ! Rejoignez le serveur dès maintenant !!.",
+        "image": "https://i.pinimg.com/736x/c3/ca/00/c3ca00cb2292ddf622544ed92f21bf8b.jpg",
+        "color": "#e02d2d" 
     }
 ]
