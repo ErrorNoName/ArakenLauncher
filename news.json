@@ -1,5 +1,13 @@
 [
     {
+        "id": 5,
+        "title": "Araken Launcher Update (RPC & FIX) !",
+        "date": "11/01/2026",
+        "description": "Le launcher à été update (Rpc discord & Bug FIx) ! Download Update https://arakenlauncher.netlify.app/ !!.",
+        "image": "https://i.pinimg.com/736x/0f/db/f6/0fdbf62ba200749cca1443dd76481d2d.jpg",
+        "color": "#4ade80" 
+    },
+    {
         "id": 4,
         "title": "Lancement Araken Launcher !",
         "date": "11/01/2026",
