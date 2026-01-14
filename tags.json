@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
-  "lastUpdate": "2026-01-14",
+  "lastUpdate":  "2026-01-14",
   "tags": {
     "FXNoName": {
       "tag": "LÉGENDE SUPRÊME",
       "color": "#FFD700",
       "gradientEnd": "#FF4500",
-      "gradient": true,
+      "gradient":  true,
       "bold": true,
       "italic": false,
       "size": 1.2,
-      "glow": true,
+      "glow":  true,
       "glowColor": "#FFD700",
       "rainbow": false,
       "wave": true,
@@ -25,25 +25,49 @@
       "cosmetics": ["CROWN", "WINGS_FIRE"]
     },
     "TheSp4ceCowboy44": {
-      "tag": "Homme Qui Aime Les Gros KiKi",
-      "color": "#00BFFF",
-      "gradientEnd": "#9400D3",
+      "tag": "Zoulette uwU",
+      "color": "#FF69B4",
+      "gradientEnd": "#FFB6C1",
+      "gradient": true,
+      "bold":  true,
+      "italic": true,
+      "size": 1.15,
+      "glow": true,
+      "glowColor":  "#FF1493",
+      "rainbow": false,
+      "wave": true,
+      "waveSpeed": 3.0,
+      "bounce": true,
+      "particle":  {
+        "enabled": true,
+        "type": "CHERRY_BLOSSOM",
+        "color": "#FFB6C1",
+        "density": 6,
+        "radius": 1.3
+      },
+      "cosmetics": ["HALO", "WINGS_ANGEL"]
+    },
+    "Spingot": {
+      "tag": "La gloutonne",
+      "color": "#8B4513",
+      "gradientEnd": "#FF6347",
       "gradient": true,
       "bold": true,
       "italic": false,
       "size": 1.1,
       "glow": true,
-      "glowColor": "#00BFFF",
-      "rainbow": false,
+      "glowColor":  "#FFA500",
+      "rainbow":  false,
       "wave": false,
-      "particle": {
+      "pulse": true,
+      "particle":  {
         "enabled": true,
-        "type": "STAR_TRAIL",
-        "color": "#FFFFFF",
-        "density": 5,
-        "radius": 1.2
+        "type": "FOOD_SPARKLE",
+        "color": "#FFD700",
+        "density":  7,
+        "radius": 1.4
       },
-      "cosmetics": ["COWBOY_HAT", "JETPACK"]
+      "cosmetics": ["CHEF_HAT", "FOOD_AURA"]
     },
     "TestPlayer": {
       "tag": "🎮 PRO GAMER",
@@ -56,7 +80,7 @@
       "rainbow": true,
       "rainbowSpeed": 3.0,
       "wave": false,
-      "particle": {
+      "particle":  {
         "enabled": true,
         "type": "HEARTS",
         "color": "#FF69B4",
@@ -89,7 +113,7 @@
     },
     "ENCHANT_SPIRAL": {
       "description": "Spirale d'enchantement",
-      "particles": ["enchant", "enchanted_hit"],
+      "particles":  ["enchant", "enchanted_hit"],
       "pattern": "SPIRAL"
     },
     "WATER_BUBBLE": {
@@ -116,12 +140,17 @@
       "description": "Notes de musique colorées",
       "particles": ["note"],
       "pattern": "FLOAT_UP"
+    },
+    "FOOD_SPARKLE": {
+      "description": "Étincelles de nourriture délicieuse",
+      "particles": ["scrape", "wax_on", "glow"],
+      "pattern": "ORBIT"
     }
   },
   "cosmeticTypes": {
     "CROWN": {
       "description": "Couronne dorée au-dessus de la tête",
-      "position": "HEAD_TOP",
+      "position":  "HEAD_TOP",
       "animated": true
     },
     "WINGS_FIRE": {
@@ -129,7 +158,7 @@
       "position": "BACK",
       "animated": true
     },
-    "WINGS_ANGEL": {
+    "WINGS_ANGEL":  {
       "description": "Ailes d'ange blanches",
       "position": "BACK",
       "animated": true
@@ -137,7 +166,7 @@
     "WINGS_DEMON": {
       "description": "Ailes de démon",
       "position": "BACK",
-      "animated": true
+      "animated":  true
     },
     "HALO": {
       "description": "Auréole lumineuse",
@@ -151,13 +180,13 @@
     },
     "JETPACK": {
       "description": "Jetpack avec flammes",
-      "position": "BACK",
+      "position":  "BACK",
       "animated": true
     },
     "CAPE_FIRE": {
       "description": "Cape de feu",
       "position": "BACK",
-      "animated": true
+      "animated":  true
     },
     "TRAIL_RAINBOW": {
       "description": "Trainée arc-en-ciel au sol",
@@ -168,16 +197,26 @@
       "description": "Aura sombre mystérieuse",
       "position": "BODY",
       "animated": true
+    },
+    "CHEF_HAT": {
+      "description": "Toque de chef cuisinier",
+      "position":  "HEAD",
+      "animated":  false
+    },
+    "FOOD_AURA": {
+      "description": "Aura de nourriture flottante",
+      "position": "BODY",
+      "animated":  true
     }
   },
   "tagEffects": {
     "wave": "Le tag ondule de haut en bas",
     "rainbow": "Couleurs arc-en-ciel animées",
     "glow": "Effet de brillance autour du texte",
-    "gradient": "Dégradé de couleur",
+    "gradient":  "Dégradé de couleur",
     "shake": "Légère vibration du texte",
     "bounce": "Le tag rebondit",
     "typewriter": "Animation d'écriture",
-    "pulse": "Pulsation de taille"
+    "pulse":  "Pulsation de taille"
   }
 }
