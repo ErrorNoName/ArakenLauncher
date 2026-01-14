@@ -86,7 +86,7 @@
       "bounce": true,
       "particle":  {
         "enabled": true,
-        "type": "HEARTS",
+        "type": "FOOD_SPARKLE",
         "color": "#FF69B4",
         "density": 6,
         "radius": 1.3
