@@ -1,28 +1,29 @@
 {
-  "version":  "1.0.0",
-  "lastUpdate":  "2026-01-14",
+  "version": "1.0.0",
+  "lastUpdate": "2026-01-14",
   "tags": {
     "FXNoName": {
-      "tag": "LÉGENDE SUPRÊME",
-      "color": "#FFD700",
-      "gradientEnd": "#FF4500",
-      "gradient":  true,
+      "tag": "✦ DIVINITÉ CÉLESTE ✦",
+      "color": "#FFFFFF",
+      "gradientEnd": "#E0E0FF",
+      "gradient": true,
       "bold": true,
       "italic": false,
-      "size": 1.2,
-      "glow":  true,
-      "glowColor": "#FFD700",
-      "rainbow": false,
+      "size": 1.3,
+      "glow": true,
+      "glowColor": "#FFFFFF",
+      "rainbow":  false,
       "wave": true,
-      "waveSpeed": 2.0,
-      "particle": {
+      "waveSpeed":  1.5,
+      "pulse": true,
+      "particle":  {
         "enabled": true,
-        "type": "FLAME_AURA",
-        "color": "#FF4500",
-        "density": 8,
-        "radius": 1.5
+        "type": "DIVINE_LIGHT",
+        "color": "#FFFFFF",
+        "density": 10,
+        "radius": 2.0
       },
-      "cosmetics": ["HALO", "WINGS_ANGEL"]
+      "cosmetics": ["HALO", "WINGS_ANGEL", "DIVINE_AURA"]
     },
     "TheSp4ceCowboy44": {
       "tag": "Zoulette uwU",
