@@ -70,6 +70,29 @@
       },
       "cosmetics": ["CHEF_HAT", "FOOD_AURA"]
     },
+    "Chaton de Potatos": {
+      "tag": "Chienne de Potatos",
+      "color": "#FFA500",
+      "gradientEnd": "#FFD700",
+      "gradient": true,
+      "bold": true,
+      "italic": true,
+      "size": 1.15,
+      "glow": true,
+      "glowColor":  "#FF8C00",
+      "rainbow":  false,
+      "wave": true,
+      "waveSpeed":  2.5,
+      "bounce": true,
+      "particle":  {
+        "enabled": true,
+        "type": "HEARTS",
+        "color": "#FF69B4",
+        "density": 6,
+        "radius": 1.3
+      },
+      "cosmetics": ["TRAIL_RAINBOW", "AURA_DARK"]
+    },
     "TestPlayer": {
       "tag": "🎮 PRO GAMER",
       "color": "#00FF00",
