@@ -1,0 +1,183 @@
+{
+  "version": "1.0.0",
+  "lastUpdate": "2026-01-14",
+  "tags": {
+    "FXNoName": {
+      "tag": "LÉGENDE SUPRÊME",
+      "color": "#FFD700",
+      "gradientEnd": "#FF4500",
+      "gradient": true,
+      "bold": true,
+      "italic": false,
+      "size": 1.2,
+      "glow": true,
+      "glowColor": "#FFD700",
+      "rainbow": false,
+      "wave": true,
+      "waveSpeed": 2.0,
+      "particle": {
+        "enabled": true,
+        "type": "FLAME_AURA",
+        "color": "#FF4500",
+        "density": 8,
+        "radius": 1.5
+      },
+      "cosmetics": ["CROWN", "WINGS_FIRE"]
+    },
+    "TheSp4ceCowboy44": {
+      "tag": "Homme Qui Aime Les Gros KiKi",
+      "color": "#00BFFF",
+      "gradientEnd": "#9400D3",
+      "gradient": true,
+      "bold": true,
+      "italic": false,
+      "size": 1.1,
+      "glow": true,
+      "glowColor": "#00BFFF",
+      "rainbow": false,
+      "wave": false,
+      "particle": {
+        "enabled": true,
+        "type": "STAR_TRAIL",
+        "color": "#FFFFFF",
+        "density": 5,
+        "radius": 1.2
+      },
+      "cosmetics": ["COWBOY_HAT", "JETPACK"]
+    },
+    "TestPlayer": {
+      "tag": "🎮 PRO GAMER",
+      "color": "#00FF00",
+      "gradient": false,
+      "bold": false,
+      "italic": true,
+      "size": 1.0,
+      "glow": false,
+      "rainbow": true,
+      "rainbowSpeed": 3.0,
+      "wave": false,
+      "particle": {
+        "enabled": true,
+        "type": "HEARTS",
+        "color": "#FF69B4",
+        "density": 3,
+        "radius": 1.0
+      },
+      "cosmetics": []
+    }
+  },
+  "particleTypes": {
+    "FLAME_AURA": {
+      "description": "Aura de flammes autour du joueur",
+      "particles": ["flame", "soul_fire_flame"],
+      "pattern": "SPIRAL"
+    },
+    "STAR_TRAIL": {
+      "description": "Trainée d'étoiles derrière le joueur",
+      "particles": ["end_rod", "firework"],
+      "pattern": "TRAIL"
+    },
+    "HEARTS": {
+      "description": "Coeurs flottants",
+      "particles": ["heart"],
+      "pattern": "FLOAT_UP"
+    },
+    "SMOKE_DARK": {
+      "description": "Fumée mystérieuse",
+      "particles": ["large_smoke", "soul"],
+      "pattern": "GROUND"
+    },
+    "ENCHANT_SPIRAL": {
+      "description": "Spirale d'enchantement",
+      "particles": ["enchant", "enchanted_hit"],
+      "pattern": "SPIRAL"
+    },
+    "WATER_BUBBLE": {
+      "description": "Bulles d'eau",
+      "particles": ["bubble", "bubble_pop"],
+      "pattern": "FLOAT_UP"
+    },
+    "ELECTRIC": {
+      "description": "Effet électrique",
+      "particles": ["electric_spark", "flash"],
+      "pattern": "RANDOM"
+    },
+    "CHERRY_BLOSSOM": {
+      "description": "Pétales de cerisier",
+      "particles": ["cherry_leaves"],
+      "pattern": "FALL"
+    },
+    "DRAGON_BREATH": {
+      "description": "Souffle de dragon",
+      "particles": ["dragon_breath", "portal"],
+      "pattern": "BREATH"
+    },
+    "MUSIC_NOTES": {
+      "description": "Notes de musique colorées",
+      "particles": ["note"],
+      "pattern": "FLOAT_UP"
+    }
+  },
+  "cosmeticTypes": {
+    "CROWN": {
+      "description": "Couronne dorée au-dessus de la tête",
+      "position": "HEAD_TOP",
+      "animated": true
+    },
+    "WINGS_FIRE": {
+      "description": "Ailes de feu",
+      "position": "BACK",
+      "animated": true
+    },
+    "WINGS_ANGEL": {
+      "description": "Ailes d'ange blanches",
+      "position": "BACK",
+      "animated": true
+    },
+    "WINGS_DEMON": {
+      "description": "Ailes de démon",
+      "position": "BACK",
+      "animated": true
+    },
+    "HALO": {
+      "description": "Auréole lumineuse",
+      "position": "HEAD_TOP",
+      "animated": true
+    },
+    "COWBOY_HAT": {
+      "description": "Chapeau de cowboy",
+      "position": "HEAD",
+      "animated": false
+    },
+    "JETPACK": {
+      "description": "Jetpack avec flammes",
+      "position": "BACK",
+      "animated": true
+    },
+    "CAPE_FIRE": {
+      "description": "Cape de feu",
+      "position": "BACK",
+      "animated": true
+    },
+    "TRAIL_RAINBOW": {
+      "description": "Trainée arc-en-ciel au sol",
+      "position": "FEET",
+      "animated": true
+    },
+    "AURA_DARK": {
+      "description": "Aura sombre mystérieuse",
+      "position": "BODY",
+      "animated": true
+    }
+  },
+  "tagEffects": {
+    "wave": "Le tag ondule de haut en bas",
+    "rainbow": "Couleurs arc-en-ciel animées",
+    "glow": "Effet de brillance autour du texte",
+    "gradient": "Dégradé de couleur",
+    "shake": "Légère vibration du texte",
+    "bounce": "Le tag rebondit",
+    "typewriter": "Animation d'écriture",
+    "pulse": "Pulsation de taille"
+  }
+}
