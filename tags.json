@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version":  "1.0.0",
   "lastUpdate":  "2026-01-14",
   "tags": {
     "FXNoName": {
@@ -22,7 +22,7 @@
         "density": 8,
         "radius": 1.5
       },
-      "cosmetics": ["CROWN", "WINGS_FIRE"]
+      "cosmetics": ["HALO", "WINGS_ANGEL"]
     },
     "TheSp4ceCowboy44": {
       "tag": "Zoulette uwU",
